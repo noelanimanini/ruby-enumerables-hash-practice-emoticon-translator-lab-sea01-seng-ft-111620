@@ -4,7 +4,7 @@ require 'pry'
 
 def load_library(file_path)
 final_hash = {}
-
+binding.pry 
 final_hash
 end
 
